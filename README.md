@@ -1,16 +1,20 @@
-# React + Vite
+# Expense Tracker - MERN / Spring Boot + React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Dashboard - User: biswa1@test.com
+<img width="1136" height="2424" alt="Expense-Tracker" src="https://github.com/user-attachments/assets/87588674-58b6-46a3-b858-957067d702b3" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features Fixed Today
+- ✅ Perfect Dashboard with Chart
+- ✅ Add Category Button in Expense Form
+- ✅ ₹20000 Monthly Limit Warning
+- ✅ Login Fixed (biswa1@test.com / 123456)
+- ✅ Logout Button
 
-## React Compiler
+## How to Run
+Frontend: npm start
+Backend: mvn spring-boot:run
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Login Credentials for Interview
+Email: biswa1@test.com
+Password: 123456
